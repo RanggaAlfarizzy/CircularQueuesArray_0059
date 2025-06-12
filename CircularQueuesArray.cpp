@@ -45,6 +45,8 @@ public:
         }
         queue_array[REAR] = num;
     }
+    
+    void remove()
 
 
 };
